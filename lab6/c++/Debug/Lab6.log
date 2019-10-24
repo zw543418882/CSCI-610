@@ -1,0 +1,4 @@
+﻿  textingMain.cpp
+c:\users\zengw\desktop\graphic\lab6\c++\textingmain.cpp(238): warning C4305: “+=”: 从“double”到“GLfloat”截断
+c:\users\zengw\desktop\graphic\lab6\c++\textingmain.cpp(249): warning C4305: “+=”: 从“double”到“GLfloat”截断
+LINK : fatal error LNK1104: 无法打开文件“soil.lib”
